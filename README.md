@@ -1,3 +1,11 @@
+![Node.js](https://img.shields.io/badge/Node.js-24-green?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/React-18-blue?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript)
+![Express](https://img.shields.io/badge/Express-5-black?style=flat-square&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Latest-336791?style=flat-square&logo=postgresql)
+![Vite](https://img.shields.io/badge/Vite-Latest-646CFF?style=flat-square&logo=vite)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Latest-38B2AC?style=flat-square&logo=tailwind-css)
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
 ## Prérequis
 - Node.js 20+ : https://nodejs.org
