@@ -1,4 +1,4 @@
-# TaskFlow Pro — Projet de démonstration
+
 ## Prérequis
 - Node.js 20+ : https://nodejs.org
 - pnpm : npm install -g pnpm
